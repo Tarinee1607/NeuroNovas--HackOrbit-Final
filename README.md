@@ -22,3 +22,17 @@
 **Check Point-2 : Emergency Trigger & Crisis Response Mechanism  **
     If a user's message indicates extreme distress or crisis (e.g., suicidal thoughts, self-harm intent, or violent language), the system detects it as an emergency. It immediately lowers the mental health score       and responds with a compassionate message, urging the user to contact a trusted person or emergency helpline for support.
     give heading.
+
+Check Point -3: Update: Team NeuroNovas 
+-> UI Enhacement and Login Page Implementation
+
+ 
+. Improved the User Interface (UI) for a better user experience.
+
+. Enhanced the dashboard layout and functionality.
+
+. Created the login page, including design and basic authentication structure.
+
+Check Point-4: Team- NeuroNovas 
+We’ve successfully integrated Mistral to power advanced natural language processing, enabling nuanced understanding and generation of human emotions. Alongside this, MongoDB has been implemented as a scalable and high-performance solution for structured data management, ensuring seamless storage, retrieval, and analysis of emotionally rich interactions.
+
