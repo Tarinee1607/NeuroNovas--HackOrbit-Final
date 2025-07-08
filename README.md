@@ -18,3 +18,7 @@
     - **requirements.txt**: Includes `googletrans==4.0.0-rc1`.
 
     This system effectively bridges language barriers, fostering a supportive environment for users seeking help.
+
+**Check Point-2 : Emergency Trigger & Crisis Response Mechanism  **
+    If a user's message indicates extreme distress or crisis (e.g., suicidal thoughts, self-harm intent, or violent language), the system detects it as an emergency. It immediately lowers the mental health score       and responds with a compassionate message, urging the user to contact a trusted person or emergency helpline for support.
+    give heading.
